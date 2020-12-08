@@ -180,6 +180,6 @@ var shop = function() {
   }
 };
 
-//start the game when the page loads
+//start the game when the page loads.
 startGame();
 
